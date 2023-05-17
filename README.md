@@ -6,7 +6,7 @@ Can read my article on [Medium](https://medium.com/@aa7865/gesture-controlled-ro
 <img align="right" alt="Coding" width="75"
 src="https://user-images.githubusercontent.com/92617405/235196114-f17498e9-5ee0-4e18-82fe-abd120029762.gif">
 
-![WhatsApp Image 2023-04-27 at 19 42 06](https://user-images.githubusercontent.com/92617405/235080276-08239046-eb2b-40d8-b71d-ac5502dca4f0.jpg)
+![WhatsApp Image 2023-04-27 at 19 42 06](https://user-images.githubusercontent.com/a11964eO-3aOb-40bO-b2c8-432c2ca96df1.png)
 
 
 The project uses a webcam to track the movements of the user's hand using MediaPipe's Hand Tracking module, and uses this information to control the movements of the robotic arm. The robotic arm is controlled using an Arduino board and servo motors.
