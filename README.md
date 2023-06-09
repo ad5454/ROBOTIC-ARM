@@ -2,10 +2,6 @@
 # Gesture-Controlled Robotic Arm with Computer Vision
 This repository contains code and instructions for building a robotic arm using OpenCV and Google's [MediaPipe](https://github.com/google/mediapipe) Library.
 
-Can read my article on [Medium](https://medium.com/@aa7865/gesture-controlled-robotic-arm-with-computer-vision-feb63d13056c)
-<img align="right" alt="Coding" width="75"
-src="https://user-images.githubusercontent.com/92617405/235196114-f17498e9-5ee0-4e18-82fe-abd120029762.gif">
-
 
 The project uses a webcam to track the movements of the user's hand using MediaPipe's Hand Tracking module, and uses this information to control the movements of the robotic arm. The robotic arm is controlled using an Arduino board and servo motors.
 
